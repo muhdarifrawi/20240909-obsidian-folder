@@ -1,0 +1,8 @@
+- [ ] Send follow up email to Gerald
+- [ ] Read on how to make Rubrics for UI/UX course
+- [ ] Complete Java labs
+- [ ] Complete checking of Labs and Lecture notes for Networking Module
+- [ ] Create quizzes for Python class
+- [ ] Read up on Pandas
+- [ ] Create a final project for Pandas
+- [ ] Do we need to make marking rubrics for Python class as well?

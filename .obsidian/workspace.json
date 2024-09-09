@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "12f8ab2576f5a394",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c010090ec4a94f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32930fd6841a8ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f2adb751e96fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "05471916c2636cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a7715da39474de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0f0d079772f2871",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fddeb3a778b8adb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "ead8e4b59b0316b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "663351dec5676224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a59e94a1400560",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b558465512b7ce1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4c1ae75026f9d7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b9a238e8b26739d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d32930fd6841a8ec",
+  "lastOpenFiles": [
+    "Trent x Rocket/Templates.md",
+    "Trent x Rocket/Leads Call/Template.md",
+    "Trent x Rocket/Leads Call/20240909 - Kelvin.md",
+    "Untitled.canvas",
+    "Comma/Backend Models and Database Storage.md",
+    "Comma/Backend URI Paths.md",
+    "Trent x Rocket/Leads Call",
+    "Pasted image 20240906162214.png",
+    "Pasted image 20240906162129.png",
+    "Pasted image 20240906162056.png",
+    "Java/Notes.md",
+    "Jun Heng.md",
+    "Cheat Sheets/Python Cheat Sheet.md",
+    "Cheat Sheets",
+    "Trent/To-Dos.md",
+    "Trent/Python Lesson",
+    "Bells-SCTP-03/Extra Lessons.md",
+    "Trent",
+    "Comma/Database Storage.md",
+    "Writing",
+    "Bells-SCTP-03",
+    "Brainstorming.md",
+    "Comma",
+    "Trent x Rocket/Course Schedule.md",
+    "Trent x Rocket/Course Dates.md",
+    "Trent x Rocket/Resources.md",
+    "Trent x Rocket",
+    "Welcome.md",
+    "create a link.md",
+    "Java",
+    "2024-08-29.md"
+  ]
+}
