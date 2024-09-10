@@ -16,6 +16,7 @@ is_raining = False
 ### String Data Type
 ```python
 name = "John Doe" 
+also_name = 'Jane Doe'
 ```
 
 ## Comparators
@@ -70,6 +71,29 @@ else:
 	print("Goodbye")
 ```
 
+## String
+### Selecting character via index
+```Python
+simple_quote = "This is just a simple quote."
+
+print(simple_quote[13])
+```
+### String Iteration
+```Python
+simple_quote = "This is just a simple quote."
+
+```
+### String Slicing
+
+### String Escape Sequences
+
+### String Methods
+#### Check String Length
+
+#### Stripping excess spaces on left and right
+
+
+
 ## Loops/Automation
 ### While Loop - Using Sentinel Variable
 ```python
@@ -118,4 +142,35 @@ random_list = ["john", 21, 3.14, True]
 
 for i in random_list:
 	print(i)
+```
+
+### Iterating search
+```Python
+random_numbers = [2,4,6,8,10,12]
+
+if 6 in random_numbers:
+	print("found")
+else:
+	print("not found")
+```
+
+### List Methods
+#### Checking List Length
+```Python
+number_seq = [1,3,5,7,9,12,15]
+
+string_length = len(number_seq)
+```
+#### Adding into List
+```Python
+number_seq = [1,3,5,7,9,12,15]
+
+number_seq.append(42)
+```
+
+#### Removing from List
+```Python
+number_seq = [1,3,5,7,9,12,15]
+
+number_seq.remove(12)
 ```

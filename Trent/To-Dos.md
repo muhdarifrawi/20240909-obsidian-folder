@@ -1,4 +1,5 @@
-- [ ] Send follow up email to Gerald
+- [x] Send follow up email to Gerald
+- [ ] Send follow up email to Kelvin. Arrange a time to call him back with the proposal. Is he okay with opening up a company to go around the TIPP 
 - [ ] Read on how to make Rubrics for UI/UX course
 - [ ] Complete Java labs
 - [ ] Complete checking of Labs and Lecture notes for Networking Module
