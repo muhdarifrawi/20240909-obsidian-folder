@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55317824bb5ed7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trent x Rocket/Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 259.5
   },
   "right": {
     "id": "ead8e4b59b0316b8",
@@ -162,23 +174,27 @@
   },
   "active": "79c3f83c27086026",
   "lastOpenFiles": [
-    "Jun Heng.md",
+    "Trent x Rocket/Leads Call/20240911 - Jie Heng.md",
+    "Trent x Rocket/Templates.md",
+    "Trent x Rocket/Leads Call/20240911 - Darice.md",
+    "Trent x Rocket/Leads Call/Template 1.md",
+    "Trent x Rocket/Leads Call/Template 2.md",
+    "Trent x Rocket/Course Dates.md",
+    "Trent x Rocket/Leads Call/20240909 - Kelvin.md",
+    "Trent/To-Dos.md",
+    "Cheat Sheets/Python Cheat Sheet.md",
     "Java/Notes.md",
+    "Jun Heng.md",
     "Images/Pasted image 20240906162214.png",
     "Images/Pasted image 20240906162129.png",
     "Images/Pasted image 20240906162056.png",
     "Untitled.canvas",
     "Images",
-    "Trent/To-Dos.md",
-    "Cheat Sheets/Python Cheat Sheet.md",
-    "Trent x Rocket/Leads Call/20240909 - Kelvin.md",
     "Writing/Project Mimics/Chapter ???.md",
     "Writing/Names",
     "Writing/Judgement Day/Chapter End.md",
     "Writing/Project Mimics",
     "Writing/Judgement Day",
-    "Trent x Rocket/Templates.md",
-    "Trent x Rocket/Leads Call/Template.md",
     "Comma/Backend Models and Database Storage.md",
     "Comma/Backend URI Paths.md",
     "Trent x Rocket/Leads Call",
@@ -191,7 +207,6 @@
     "Bells-SCTP-03",
     "Brainstorming.md",
     "Trent x Rocket/Course Schedule.md",
-    "Trent x Rocket/Course Dates.md",
     "Trent x Rocket/Resources.md",
     "Welcome.md",
     "create a link.md",

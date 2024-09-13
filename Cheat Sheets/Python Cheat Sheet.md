@@ -84,8 +84,21 @@ simple_quote = "This is just a simple quote."
 
 ```
 ### String Slicing
+```Python
+simple_quote = "This is just a simple quote."
+
+sliced_1 = simple_quote[0:9] # can also be writen as [:9]
+sliced_2 = simple_quote[3:9]
+sliced_3 = simple_quote[3:]
+sliced_4 = simple_quote[3:18:2]
+sliced_5 = simple_quote[3::2]
+sliced_6 = simple_quote[::-1]
+```
 
 ### String Escape Sequences
+```python
+
+```
 
 ### String Methods
 #### Check String Length
@@ -111,6 +124,12 @@ while ( condition ):
 ```python
 for i in range(10):
 	print(i)
+
+for j in range(5,20):
+	print(j)
+
+for k in range(2,30,2):
+	print(k)
 ```
 >`range()` function can take in up to three parameters. 
 

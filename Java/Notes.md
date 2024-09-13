@@ -5,6 +5,14 @@ Also known as child class, extended class or derived class.
 
 static member:
 Part of a class that is accessible through the class and belongs to the class.
+
+# Data Types
+## Primitive
+Boolean, Int, Double, Float, Char, String*
+
+\* String is considered as an Object in Java
+## Reference
+Classes, Array
 # Access Modifiers
 Allows us to determine programmatically where certain variables and methods can be accessed in our code.
 
@@ -131,4 +139,8 @@ Class inherits from one class but also can be a parent of another subclass.
 # Random Notes
 `@Override` keyword is placed to let programmers know that the method in the current class is superseding the one found in the Parent Class. 
 
+Override -> two methods same name same class 
+Overload -> two methods same name, one in parent one in child
+
 `interfaces` are all `public` by default.
+
