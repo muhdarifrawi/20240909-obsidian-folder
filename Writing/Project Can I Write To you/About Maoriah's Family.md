@@ -1,0 +1,6 @@
+
+Everyone seems to think that her family's crest and familiars are fire hounds. But the truth is, they are called Hell Hounds. They are vastly different from fire hounds that any would meet.
+
+Not only do their fires roar much fiercely, they have a secondary ability in which they can manipulate blood flow. Though not as great. But when the magic was taught to her ancestors, they adapted and refined it to create "blood arts". Blood infused with the users mana creating armours and weapons. 
+
+It is also because of the hell hounds that Maoriah is able to achieve "blue fairy", a form limited to her. As she has a high mana capacity and a close bond with the hell hounds, she is able to tap in their power to produce blue flames and manipulate them into armour. Not only that, the residual flames tinted with her mana creates a replica of her, each able to comprehend her thoughts. The downside of this is that when she loses herself in rage, shock or fear, it will lose control and would produce a large fiery astral form, eating away the oxygen in the area, suffocating and burning anyone in quite a distance. 

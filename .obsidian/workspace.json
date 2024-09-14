@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c010090ec4a94f",
+        "id": "414d3a93601810fd",
         "type": "tabs",
         "children": [
           {
-            "id": "d32930fd6841a8ec",
+            "id": "9b6fd2535372b158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Judgement Day/Chapter End.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c3f83c27086026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55317824bb5ed7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trent x Rocket/Templates.md",
+                "file": "Writing/Project Can I Write To you/About Maoriah's Family.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Notes.md",
+                "file": "Writing/Project Can I Write To you/About Maoriah's Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Notes.md",
+                "file": "Writing/Project Can I Write To you/About Maoriah's Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Notes.md"
+                "file": "Writing/Project Can I Write To you/About Maoriah's Family.md"
               }
             }
           }
@@ -172,10 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79c3f83c27086026",
+  "active": "49a7715da39474de",
   "lastOpenFiles": [
-    "Trent x Rocket/Leads Call/20240911 - Jie Heng.md",
+    "Writing/Project Can I Write To you/About Maoriah's Family.md",
+    "Writing/Project Can I Write To you",
+    "Comma/Backend URI Paths.md",
+    "Comma/Backend Models and Database Storage.md",
     "Trent x Rocket/Templates.md",
+    "Writing/Judgement Day/Chapter End.md",
+    "Java/Notes.md",
+    "Trent x Rocket/Leads Call/20240911 - Jie Heng.md",
     "Trent x Rocket/Leads Call/20240911 - Darice.md",
     "Trent x Rocket/Leads Call/Template 1.md",
     "Trent x Rocket/Leads Call/Template 2.md",
@@ -183,7 +164,6 @@
     "Trent x Rocket/Leads Call/20240909 - Kelvin.md",
     "Trent/To-Dos.md",
     "Cheat Sheets/Python Cheat Sheet.md",
-    "Java/Notes.md",
     "Jun Heng.md",
     "Images/Pasted image 20240906162214.png",
     "Images/Pasted image 20240906162129.png",
@@ -192,11 +172,8 @@
     "Images",
     "Writing/Project Mimics/Chapter ???.md",
     "Writing/Names",
-    "Writing/Judgement Day/Chapter End.md",
     "Writing/Project Mimics",
     "Writing/Judgement Day",
-    "Comma/Backend Models and Database Storage.md",
-    "Comma/Backend URI Paths.md",
     "Trent x Rocket/Leads Call",
     "Cheat Sheets",
     "Trent/Python Lesson",
@@ -204,7 +181,6 @@
     "Trent",
     "Comma/Database Storage.md",
     "Writing",
-    "Bells-SCTP-03",
     "Brainstorming.md",
     "Trent x Rocket/Course Schedule.md",
     "Trent x Rocket/Resources.md",

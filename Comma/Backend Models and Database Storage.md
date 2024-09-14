@@ -102,6 +102,7 @@ Indicates the holidays that the shop may observe. Strings should be inserted int
 ```JSON
 {
 	"itemName":"",
+	"itemBrand":"",
 	"itemCost":"",
 	"barcodeNumber":"",
 	"category":"",
@@ -115,6 +116,9 @@ Indicates the holidays that the shop may observe. Strings should be inserted int
 
 **itemName** (string) :
 Information on item name.
+
+**itemBrand** (string):
+Brand of item. E.g. Ayam Brand, NTUC, Colgate
 
 **itemCost** (string) :
 Information on price of item.
@@ -159,3 +163,23 @@ Example:
 
 **availability** (boolean) :
 Information on currently availability of item. Default value is `true`. `true` indicates item is available in shop.
+
+## Sample Items
+```JSON
+{
+	"itemName":"salmon spread",
+	"itemBrand":"ayam brand",
+	"itemCost":"2.50",
+	"barcodeNumber":"0987654321",
+	"category":"food",
+	"restrictionType":"halal",
+	"sellingQty":"can",
+	"onSale":false,
+	"knownSalesHour":{
+		"known0": ["10:00AM", "12:00PM"],
+		"known1": ["04:00PM", "06:00PM"]
+		... 
+	},
+	"availability":true
+}
+```
